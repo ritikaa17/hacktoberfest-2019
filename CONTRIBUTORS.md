@@ -58,10 +58,10 @@
 - Bio: Random person that codes & plays Overwatch
 - Github: [redraskal](https://github.com/redraskal)
 
-#### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
-- Place: Massachusetts, USA
-- Bio: Student at LSE
-- GitHub: [Kelsey Cooper](https://github.com/kelseydcooper)
+#### Name: [Claudy Cooper](https://github.com/claudycooper)
+- Place: Brussels, USA
+- Bio: Student at YME
+- GitHub: [Claudy Cooper](https://github.com/claudycooper)
 
 #### Name: [Anastasis Xouzafeiris](https://github.com/anksos)
 - Place: Brno, CZ
