@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Ritika](https://github.com/ritikaa17)
+- Place: Delhi, India
+- Bio: Developer
+- GitHub: [ritikaa17](https://github.com/ritikaa17)
+
