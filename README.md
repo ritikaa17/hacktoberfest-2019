@@ -1,5 +1,6 @@
 # 🎃 Hacktoberfest Starter Project 🎃
 **An 2018 version of https://github.com/AliceWonderland/hacktoberfest - all credit for this goes to her!**
+Welcome to the trial of 2019, my first experience in github
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
